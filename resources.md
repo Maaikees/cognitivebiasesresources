@@ -4,6 +4,9 @@
 2. Rolf Dobelli - [The Art of Thinking Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693/)  
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
 
+# My own blogs about this topic
+[Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
+
 # Blogs, written material
 1. Kahneman, Tversky - [Judgment under Uncertainty: Heuristics and Biases](http://people.hss.caltech.edu/~camerer/Ec101/JudgementUncertainty.pdf)  
 2. [Cognitive Fitness, blog dedicated to cognitive issues](http://www.advanced-workplace.com/workplace-research/cognitive-fitness/)  
