@@ -19,3 +19,7 @@
 1. [Summary of Thinking Fast and Slow](https://youtu.be/uqXVAo7dVRU) on YouTube  
 2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)  
 3. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
+
+# Infographics
+1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
+2. [Cognitive Bias Codex](http://ritholtz.com/2016/09/cognitive-bias-codex/)
