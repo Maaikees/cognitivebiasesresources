@@ -17,11 +17,12 @@
 7. [MANAGE YOUR BIASES AS A TESTER – PART 3/4](https://www.lyontesting.fr/en/manage-your-biases-as-a-tester-part-34/)
 8. [MANAGE YOUR BIASES AS A TESTER – PART 4/4](https://www.lyontesting.fr/en/manage-your-biases-as-a-tester-part-44/)
 
+# Courses about Learning
+1. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
 
 # Video material
 1. [Summary of Thinking Fast and Slow](https://youtu.be/uqXVAo7dVRU) on YouTube  
-2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)  
-3. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
+2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)   
 
 # Infographics
 1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
