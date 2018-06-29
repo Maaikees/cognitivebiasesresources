@@ -29,6 +29,7 @@
 1. [Summary of Thinking Fast and Slow](https://youtu.be/uqXVAo7dVRU) on YouTube  
 2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)
 3. [Videos that accompany the book "The Coaching Habit"](https://boxofcrayons.com/the-coaching-habit-book/the-coaching-habit-videos/)
+4. [Inattentional Blindness Example](https://youtu.be/b7LuvAM6XLg) on YouTube
 
 # Infographics
 1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
