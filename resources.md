@@ -1,14 +1,14 @@
-# Books
+# Recommended Books
 
 1. Daniel Kahneman - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)  
 2. Rolf Dobelli - [The Art of Thinking Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693/)  
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
 4. Michael Stanier - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/)
 
-# My own blogs about this topic
+# Maaike's own blogs about this topic
 [Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
 
-# Blogs, written material
+# Recommended blogs, written material
 1. Kahneman, Tversky - [Judgment under Uncertainty: Heuristics and Biases](http://people.hss.caltech.edu/~camerer/Ec101/JudgementUncertainty.pdf)  
 2. [Cognitive Fitness, blog dedicated to cognitive issues](http://www.advanced-workplace.com/workplace-research/cognitive-fitness/)  
 3. [Cognitive Bias Sheet, amazing overview of biases and a nice infographic](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.o5csui155)  
