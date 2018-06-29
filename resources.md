@@ -5,7 +5,7 @@
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
 4. Michael Stanier - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/)
 
-# Maaike's own blogs about this topic
+# Maaike's own blogs about biases in testing
 [Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
 
 # Recommended blogs, written material
@@ -30,6 +30,7 @@
 2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)
 3. [Videos that accompany the book "The Coaching Habit"](https://boxofcrayons.com/the-coaching-habit-book/the-coaching-habit-videos/)
 4. [Inattentional Blindness Example](https://youtu.be/b7LuvAM6XLg) on YouTube
+5. [12 Biases Explained](https://youtu.be/wEwGBIr_RIw) on YouTube
 
 # Infographics
 1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
