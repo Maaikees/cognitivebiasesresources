@@ -21,6 +21,9 @@
 # Courses about Learning
 1. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
 
+# Habits
+1. [Zen Habits](https://zenhabits.net/)
+
 # Video material
 1. [Summary of Thinking Fast and Slow](https://youtu.be/uqXVAo7dVRU) on YouTube  
 2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)
