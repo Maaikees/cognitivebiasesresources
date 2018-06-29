@@ -17,7 +17,7 @@
 6. [MANAGE YOUR BIASES AS A TESTER – PART 2/4](https://www.lyontesting.fr/en/manage-your-biases-as-a-tester-part-24/)
 7. [MANAGE YOUR BIASES AS A TESTER – PART 3/4](https://www.lyontesting.fr/en/manage-your-biases-as-a-tester-part-34/)
 8. [MANAGE YOUR BIASES AS A TESTER – PART 4/4](https://www.lyontesting.fr/en/manage-your-biases-as-a-tester-part-44/)
-9. [About metacognition and different approaches to learning](https://edgylabs.com/improve-your-next-exam-score-metacognition)
+9. [About metacognition and different approaches to learning](https://ciel.viu.ca/teaching-learning-pedagogy/designing-your-course/how-learning-works/ten-metacognitive-teaching-strategies)
 
 # Courses about Learning
 1. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
