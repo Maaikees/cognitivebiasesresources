@@ -3,6 +3,7 @@
 1. Daniel Kahneman - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)  
 2. Rolf Dobelli - [The Art of Thinking Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693/)  
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
+4. Michael Stanier - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/)
 
 # My own blogs about this topic
 [Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
@@ -22,7 +23,8 @@
 
 # Video material
 1. [Summary of Thinking Fast and Slow](https://youtu.be/uqXVAo7dVRU) on YouTube  
-2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)   
+2. Dan Gilbert - [Why We Make Bad Decisions](https://www.ted.com/talks/dan_gilbert_researches_happiness?language=en)
+3. [Videos that accompany the book "The Coaching Habit"](https://boxofcrayons.com/the-coaching-habit-book/the-coaching-habit-videos/)
 
 # Infographics
 1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
