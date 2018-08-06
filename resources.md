@@ -24,6 +24,9 @@
 1. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
 2. Coursera, [Critical Thinking in the Information Age](https://www.coursera.org/learn/mindware/)
 
+# Test Your Own Biases
+1. [Project Implicit](https://implicit.harvard.edu/implicit/takeatest.html), tons of valuable tests
+
 # Habits
 1. [Zen Habits](https://zenhabits.net/)
 
