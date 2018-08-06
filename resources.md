@@ -4,6 +4,7 @@
 2. Rolf Dobelli - [The Art of Thinking Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693/)  
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
 4. Michael Stanier - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/)
+5. David McRaney - [You Are Not So Smart](https://www.amazon.com/You-Are-Not-So-Smart/dp/1592407366)
 
 # Maaike's own blogs about biases in testing
 [Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
@@ -21,6 +22,7 @@
 
 # Courses about Learning
 1. Coursera, [Learning how to Learn course](https://www.coursera.org/learn/learning-how-to-learn)
+2. Coursera, [Critical Thinking in the Information Age](https://www.coursera.org/learn/mindware/)
 
 # Habits
 1. [Zen Habits](https://zenhabits.net/)
