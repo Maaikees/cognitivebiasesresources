@@ -1,7 +1,7 @@
 # Mind Busters - Test Your Mind!
 ## Biases Worksheet  
 
-###175+ biases, remember the 4 main categories
+### 175+ biases, remember the 4 main categories
 [Source](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
 
 - Too Much Information  
@@ -10,7 +10,8 @@
 - What Should We Remember?  
 
 
-###Bias Examples
+### Bias Examples
+
 **Confirmation Bias**  
 *Description:* Tendency to search for, interpret, focus on and remember information in a way that confirms one's preconceptions. The effect is stronger for emotionally charged issues and for deeply entrenched beliefs.
     
