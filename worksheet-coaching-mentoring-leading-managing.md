@@ -9,6 +9,7 @@ What these terms mean for us, maybe not to you. Open for discussion!
 - asking questions
 - enabling other people to see themselves in a different light
 - avoid jumping to conclusions or offer solutions
+- help the other person to reflect
 
 ## Mentoring
 
@@ -20,6 +21,7 @@ What these terms mean for us, maybe not to you. Open for discussion!
 
 ## Leading
 - having a vision of what you want to achieve with your team, your company, your product...
+- inspire!
 - doing actions to steer a group of people into the direction of that vision
 - getting people to see and agree with that vision
 - getting people to work on a shared goal
