@@ -5,6 +5,8 @@
 3. Nicholas Taleb - [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Nicholas-Hardcover/dp/B00BR9W8GM/)
 4. Michael Stanier - [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/)
 5. David McRaney - [You Are Not So Smart](https://www.amazon.com/You-Are-Not-So-Smart/dp/1592407366)
+6. Charles Duhigg - [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+7. Anders Ericsson - [Peak, Secrets from the New Science of Expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223/)
 
 # Maaike's own blogs about biases in testing
 [Mapping Biases to Testing series](https://www.maaikebrinkhof.nl/tag/mapping-biases-to-testing/)
@@ -36,6 +38,7 @@
 3. [Videos that accompany the book "The Coaching Habit"](https://boxofcrayons.com/the-coaching-habit-book/the-coaching-habit-videos/)
 4. [Inattentional Blindness Example](https://youtu.be/b7LuvAM6XLg) on YouTube
 5. [12 Biases Explained](https://youtu.be/wEwGBIr_RIw) on YouTube
+6. [The 7 Habits of Highly Effective People Explained](https://youtu.be/ktlTxC4QG8g) on YouTube
 
 # Infographics
 1. [Assessing risks in business infographic](http://res.cloudinary.com/yumyoshojin/image/upload/v1/pdf/risk-culture-2018.pdf)
